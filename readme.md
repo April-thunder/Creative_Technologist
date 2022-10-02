@@ -11,8 +11,10 @@ The page was made as exercise for layout skills
 
 ## Notes
 
-- The page is adaptive from deskop to the iPhone 4 sizes
+- The page is adaptive from deskop to the iPhone 4
 ## Demo
+
+Click the link to see the page https://april-thunder.github.io/Creative_Technologist/
 
 
 
