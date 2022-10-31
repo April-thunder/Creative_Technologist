@@ -16,5 +16,9 @@ The page was made as exercise for layout skills
 
 Click the link to see the page https://april-thunder.github.io/Creative_Technologist/
 
+## To Do
+
+- To finish mobile menu design
+
 
 
